@@ -1,0 +1,246 @@
+<!DOCTYPE HTML>
+<!--
+	Информац3ионные технологии
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>Информационные технологии</title>
+	<!-- TemplateEndEditable -->
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+		<!--[if lte IE 8]><script src="css/ie/html5shiv.js"></script><![endif]-->
+		<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.dropotron.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/skel-layers.min.js"></script>
+		<script src="js/init.js"></script>
+		<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"/>	
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+		</noscript>
+		<!--[if lte IE 8]><link rel="stylesheet" href="css/ie/v8.css" /><![endif]-->
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+	</head>
+	<body class="homepage">
+
+		<!-- Header Wrapper -->
+			<div class="wrapper style1" id="wrapperID">
+			
+			<!-- Header -->
+				<div id="header">
+					<div class="container">
+							
+						<!-- Logo -->
+							<h1><a href="#" id="logo">Solarize</a></h1>
+						
+						<!-- Nav -->
+							<nav id="nav">
+								<ul>
+									<li class="active"><a href="index.html">Home</a></li>
+									<li>
+										<a href="">Сферы деятельности</a>
+										<ul>
+											<li><a href="#">ИТ Аутсорсинг</a></li>
+											<li><a href="#">Системный администратор</a></li>
+											<li><a href="#">Сетевая инфраструктура</a></li>
+											<li><a href="#">Антивирусная система безопасности</a></li>
+											<li><a href="#">Серверы и ПК</a></li>
+											<li><a href="#">СКС</a></li>
+										</ul>
+									</li>
+									<li><a href="left-sidebar.html">Left Sidebar</a></li>
+									<li><a href="right-sidebar.html">Right Sidebar</a></li>
+									<li><a href="no-sidebar.html">No Sidebar</a></li>
+								</ul>
+							</nav>
+	
+					</div>
+				</div>
+				
+			<!-- Banner -->
+				<div id="banner">
+					<section class="container">
+						<span style="text-align: right; padding-right: 0px; margin-top: 0px; margin-bottom: 0px;">Информационные технологии<br>
+						<p style="font-size: 20px;">Системный Интегратор</p></span>
+					</section>
+				</div>
+
+			</div>
+		
+		<!-- Section One -->
+			<div class="wrapper style2">
+				<section class="container">
+					<div class="row double">
+						<div class="6u">
+							<header class="major">
+								<h2>Нижегородская Организация «Информационные технологии» основана в 2003 году.</h2>
+								<span class="byline">С момента образования специализируемся на техническом обслуживании корпоративных информационных систем. Позиционируем себя как разработчики комплексных / системных решений.</span>
+							</header>
+						</div>
+						<div class="6u">
+							<h3>Системная интеграция</h3>
+							<p>Основная и единственная  деятельность нашей компании, в рамках которой занимаемся консультациями, разработкой, внедрением, реорганизацией и поддежкой информационных систем.&nbsp; А так же, поставками сопутствующего оборудования и программного обеспечения.</p>
+							<a href="#" class="button">Системный администратор&nbsp;</a>
+						</div>
+					</div>
+				</section>
+			</div>
+
+		<!-- Section Two -->
+			<div class="wrapper style3">
+				<section class="container">
+					<header class="major">
+						<h2>ИТ АУТСОРСИНГ</h2>
+					</header>
+					<p>Идеальная форма взаимодействия между заказчиком и системным администратором.</p>
+					<a href="#" class="button alt">Nulla aluctus eleifend</a>
+				</section>
+			</div>
+
+		<!-- Section Three -->
+			<div class="wrapper style4">
+				<section class="container">
+					<header class="major">
+						<h2>Компетенции. Навыки. Партнеры&nbsp;</h2>
+						<span class="byline">Что мы умеем. С кем мы работали и работаем.</span>
+					</header>
+					<div class="row flush">
+						<div class="4u">
+							<ul class="special-icons">
+								<li>
+									<span class="fa fa-cogs"></span>
+									<h3>Nulla luctus eleifend</h3>
+									<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula pellentesque.</p>
+								</li>
+								<li>
+									<span class="fa fa-wrench"></span>
+									<h3>Etiam posuere augue</h3>
+									<p>Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat liguala.</p>
+								</li>
+								<li>
+									<span class="fa fa-leaf"></span>
+									<h3>Fusce ultrices fringilla</h3>
+									<p>Maecenas pede nisl, elementum eu, ornare ac, malesuada at, erat. Proin gravida orci porttitor.</p>
+								</li>
+							</ul>
+						</div>
+						<div class="4u">
+							<ul class="special-icons">
+								<li>
+									<span class="fa fa-cogs"></span>
+									<h3>Nulla luctus eleifend</h3>
+									<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula pellentesque.</p>
+								</li>
+								<li>
+									<span class="fa fa-wrench"></span>
+									<h3>Etiam posuere augue</h3>
+									<p>Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat liguala.</p>
+								</li>
+								<li>
+									<span class="fa fa-leaf"></span>
+									<h3>Fusce ultrices fringilla</h3>
+									<p>Maecenas pede nisl, elementum eu, ornare ac, malesuada at, erat. Proin gravida orci porttitor.</p>
+								</li>
+							</ul>
+						</div>
+						<div class="4u">
+							<ul class="special-icons">
+								<li>
+									<span class="fa fa-cogs"></span>
+									<h3>Nulla luctus eleifend</h3>
+									<p>In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula pellentesque.</p>
+								</li>
+								<li>
+									<span class="fa fa-wrench"></span>
+									<h3>Etiam posuere augue</h3>
+									<p>Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat liguala.</p>
+								</li>
+								<li>
+									<span class="fa fa-leaf"></span>
+									<h3>Fusce ultrices fringilla</h3>
+									<p>Maecenas pede nisl, elementum eu, ornare ac, malesuada at, erat. Proin gravida orci porttitor.</p>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</section>
+			</div>
+		
+		<!-- Team -->
+			<div class="wrapper style5">
+				<section id="team" class="container">
+					<header class="major">
+						<h2>О НАС&nbsp;</h2>
+						<span class="byline">Наша маленькая стая&nbsp;&nbsp;</span>
+					</header>
+					<div class="row">
+						<div class="3u">
+							<a href="#" class="image"><img src="images/placeholder.png" alt=""></a>
+							<h3>Максимов Олег Геннадьевич&nbsp;</h3>
+							<p>Директор, менеджер, поставщик и снабженец, логист и водитель.&nbsp; Человек - оркестр.</p>
+						</div>
+						<div class="3u">
+							<a href="#" class="image"><img src="images/placeholder.png" alt=""></a>
+							<h3>Лукьянов Василий Викторович</h3>
+							<p>Технический фантазёр,&nbsp; системный инженер.</p>
+						</div>
+						<div class="3u">
+							<a href="#" class="image"><img src="images/placeholder.png" alt=""></a>
+							<h3>Варакин Александр Евгеньевич</h3>
+							<p>Системный инженер и свободный художник)</p>
+						</div>
+						<div class="3u">
+							<a href="#" class="image"><img src="images/placeholder.png" alt=""></a>
+							<h3>Кумбатова Наталия Валентиновна</h3>
+							<p>Бухгалтер_ка!)</p>
+						</div>
+					</div>
+				</section>
+			</div>
+
+	<!-- Footer -->
+		<div id="footer">
+			<section class="container">
+				<header class="major">
+					<h2>Connect with us</h2>
+					<span class="byline">Integer sit amet pede vel arcu aliquet pretium</span>
+				</header>
+				<ul class="icons">
+					<li class="active"><a href="#" class="fa fa-facebook"><span>Facebook</span></a></li>
+					<li><a href="#" class="fa fa-twitter"><span>Twitter</span></a></li>
+					<li><a href="#" class="fa fa-dribbble"><span>Pinterest</span></a></li>
+					<li><a href="#" class="fa fa-google-plus"><span>Google+</span></a></li>
+				</ul>
+				<hr />
+			</section>
+			
+			<!-- Copyright -->
+				<div id="copyright">
+					Design: <a href="http://templated.co">TEMPLATED</a> Images: <a href="http://unsplash.com">Unsplash</a> (<a href="http://unsplash.com/cc0">CC0</a>)
+				</div>			
+		</div>
+	<script>
+		function rand(fr, to) {
+			let getGsnd = Math.random() * to;
+			while (getGsnd < fr) {
+				   getGsnd = Math.random() * to;
+			}
+			return Number(getGsnd.toFixed())
+		}
+		let newVal = rand(0, 3);
+		while (Number(localStorage.lastImg) == newVal) {
+		   newVal = rand(0, 3);
+		}
+		document.getElementsByClassName('wrapper style1').wrapperID.style.background = "url('images/bg-"+ newVal +".jpg')";
+		localStorage.lastImg = newVal;
+		
+	</script>
+			
+</body>
+</html>
