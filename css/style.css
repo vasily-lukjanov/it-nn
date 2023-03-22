@@ -109,20 +109,29 @@
 		padding-bottom: 3em;
 		text-align: center;
 		text-transform: uppercase;
+			
 	}
 
 		header.major h2 {
 			font-size: 2.6em;
 			font-weight: 700;
+			margin-bottom: 47px;
 		}
 
 		header.major .byline {
-    display: block;
-    padding-top: 1em;
+    /*display: block;*/
+    /*padding-top: 1em;*/
     letter-spacing: 1px;
     font-size: 1.4em;
-    padding-bottom: 2em;
+    /*padding-bottom: 2em;*/
+	margin: 1px 0;
 		}
+
+.super-br {
+	padding: 0;
+	margin-top: 47px;
+	
+}
 
 	footer > :last-child {
 		margin-bottom: 0;
